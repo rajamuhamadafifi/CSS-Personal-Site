@@ -1,0 +1,175 @@
+body {
+  margin: 0;
+  background-color: #f1f3f4;
+  text-align: center;
+  font-family: 'Noto Sans' ;
+  line-height: 2;
+}
+
+a{
+  font-family: 'Noto Sans' ;
+}
+
+hr{
+  border-style: dotted none none;
+  border-width: 8px;
+  color: #79bac1;
+  width: 60%;
+}
+
+h1 {
+  font-family: 'Dancing Script' ;
+  font-size: 4rem;
+  color: #512b58;
+}
+
+h2 {
+  font-family: 'Merriweather' ;
+  font-size: 1.5rem;
+  margin: 20px auto 20px auto;
+  color: #512b58;
+}
+
+h3 {
+  font-family: 'Merriweather' ;
+  color: #2a7886;
+  margin: 20px auto 20px auto;
+}
+
+.justify-p{
+  text-align: justify;
+}
+
+.skill-row{
+  width: 50%;
+  overflow: hidden;
+  margin: 100px auto 100px auto;
+  text-align: left;
+  line-height: 2;
+}
+
+.bottom-skill{
+  margin-bottom: 50px;
+}
+
+.toph1 {
+  margin: 50px auto 0 auto;
+  letter-spacing: 5px;
+}
+
+.a-programmer{
+  font-weight: normal;
+}
+
+.profile{
+  width: 50%;
+  margin: 0 auto 0 auto;
+  line-height: 2;
+}
+
+.profile-img{
+  border-radius: 50%;
+  box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+  width: 100px;
+  margin-top: 50px;
+}
+
+.bottom-container{
+  background-color: #79bac1;
+  padding: 50px 0 20px;
+}
+
+.top-skill{
+  margin-top: 50px;
+}
+
+.below-middle{
+  margin-top: 50px;
+}
+
+.top-skill{
+  margin-top: 50px;
+}
+
+.web-development-img{
+  height: 100%;
+  width: 20%;
+  float: left;
+  margin-right: 30px;
+}
+
+.tech-support-img{
+  width: 20%;
+  float: right;
+  margin-left: 30px;
+}
+
+.top-container {
+  background-color: #79bac1;
+  position: relative;
+  padding-top: 100px;
+}
+
+.top-cloud {
+  position: absolute;
+  top: 5%;
+  right: 18%;
+}
+
+.contact-me{
+  width: 50%;
+  margin: 50px auto;
+}
+
+.middle-mountain{
+  display: block;
+  margin: 0 auto 0 auto;
+}
+
+.end-wording{
+  margin-top: 20px;
+  font-size: 0.75rem;
+}
+
+.footer-link{
+  padding: 20px;
+  color: #2a7886;
+  text-decoration: none;
+}
+
+.footer-link:hover{
+  color: #f1f3f4;
+}
+
+.end-wording{
+  color:white;
+}
+
+.bottom-cloud {
+  position: absolute;
+  left: 18%;
+}
+
+.contact-me-btn {
+  margin-top: 40px;
+	box-shadow: 0px 10px 14px -7px #276873;
+	background:linear-gradient(to bottom, #599bb3 5%, #408c99 100%);
+	background-color:#599bb3;
+	border-radius:8px;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family: 'Noto Sans' ;
+	font-size:1rem;
+	padding:8px 20px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #3d768a;
+}
+.contact-me-btn:hover {
+	background:linear-gradient(to bottom, #408c99 5%, #599bb3 100%);
+	background-color:#408c99;
+}
+.contact-me-btn:active {
+	position:relative;
+	top:1px;
+}
